@@ -1,4 +1,4 @@
-# MISSA: Museu da Imagem e do Som Sabinópolis
+# MISSA
 
 **Versão atual:** Beta
 
