@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 # MISSA
+=======
+# Projeto MISSA 🎥📱
+>>>>>>> 99ef07e (docs: adiciona estrutura inicial do banco de dados)
 
 **Versão atual:** Beta
 
+<<<<<<< HEAD
 O projeto **MISSA** é um aplicativo cultural que propõe a criação de um museu digital permanente para Sabinópolis-MG, utilizando tecnologias modernas de backend (Node.js, MongoDB), frontend (Next.js) e um modelo filosófico-científico inovador: a **Vetorialética**.
 
 ---
@@ -90,3 +95,19 @@ O MISSA é parte de um ecossistema maior de transformação cultural, científic
 
 "Documentar é transver. Transver é repovoar o tempo." — *Vetorialética*
 
+=======
+## Estrutura
+
+- `/frontend`: Interface do usuário (Next.js)
+- `/backend`: API em Node.js com MongoDB
+- `/docs`: Documentação e apresentações
+- `/dumps`: Backups do banco de dados
+- `/scripts`: Scripts úteis (backup, instalação, etc)
+
+## Como rodar
+
+```bash
+cd backend
+npm install
+npm run dev
+>>>>>>> 99ef07e (docs: adiciona estrutura inicial do banco de dados)
